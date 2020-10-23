@@ -1,0 +1,794 @@
+{
+    "0": {
+        "en": "DEPTH",
+        "tr": "DERİNLİK"
+    },
+    "1": {
+        "en": "SAMPLE NO",
+        "tr": "ÖRNEK NO"
+    },
+    "2": {
+        "en": "SAMPLE DEPTH",
+        "tr": "ÖRNEK DERİNLİĞİ"
+    },
+    "3": {
+        "en": "SAMPLE TYPE",
+        "tr": "ÖRNEK TİPİ"
+    },
+    "4": {
+        "en": "CASING PIPE",
+        "tr": "MUHAFAZA BORUSU"
+    },
+    "5": {
+        "en": "STANDARD PENETRATION TEST",
+        "tr": "STANDART PENETRASYON TESTİ"
+    },
+    "6": {
+        "en": "LITHOLOGY",
+        "tr": "LİTOLOJİ"
+    },
+    "7": {
+        "en": "GROUND DESCRIPTION",
+        "tr": "ZEMİN AÇIKLAMASI"
+    },
+    "8": {
+        "en": "CAROT RECOVERY",
+        "tr": "KAROT YÜZDESİ"
+    },
+    "9": {
+        "en": "RQD",
+        "tr": "RQD"
+    },
+    "10": {
+        "en": "FRACTURES",
+        "tr": "KIRIK-ÇATLAK"
+    },
+    "11": {
+        "en": "WEATHERING",
+        "tr": "AYRIŞMA"
+    },
+    "12": {
+        "en": "STRENGTH",
+        "tr": "DAYANIM"
+    },
+    "13": {
+        "en": "PRESSUREMETER TEST",
+        "tr": "PRESYOMETRE DENEYİ"
+    },
+    "14": {
+        "en": "LUGEON TEST",
+        "tr": "LUGEON DENEYİ"
+    },
+    "15": {
+        "en": "PROJECT NAME",
+        "tr": "PROJE İSMİ"
+    },
+    "16": {
+        "en": "LOCATION",
+        "tr": "YER"
+    },
+    "17": {
+        "en": "GROUND ELEVATION",
+        "tr": "SONDAJ KOTU"
+    },
+    "18": {
+        "en": "BOREHOLE DEPTH",
+        "tr": "SONDAJ DERİNLİĞİ"
+    },
+    "19": {
+        "en": "COORDINATE Y (E-W)",
+        "tr": "KOORDINAT Y (D-B)"
+    },
+    "20": {
+        "en": "COORDINATE X (N-S)",
+        "tr": "KOORDINAT X (K-G)"
+    },
+    "21": {
+        "en": "STATION",
+        "tr": "İSTASYON"
+    },
+    "22": {
+        "en": "OFFSET",
+        "tr": "SAPMA"
+    },
+    "23": {
+        "en": "BOREHOLE NO",
+        "tr": "SONDAJ NO"
+    },
+    "24": {
+        "en": "SHEET NO",
+        "tr": "SAYFA NO"
+    },
+    "25": {
+        "en": "DRILL RIG",
+        "tr": "SONDAJ MAKİNESİ"
+    },
+    "26": {
+        "en": "DRILL METHOD",
+        "tr": "SONDAJ YÖNTEMİ"
+    },
+    "27": {
+        "en": "DRILLER",
+        "tr": "SONDÖR"
+    },
+    "28": {
+        "en": "ENGINEER",
+        "tr": "MÜHENDİS"
+    },
+    "29": {
+        "en": "DATE STARTED",
+        "tr": "BAŞLAMA TARİHİ"
+    },
+    "30": {
+        "en": "DATE FINISHED",
+        "tr": "BİTİŞ TARİHİ"
+    },
+    "31": {
+        "en": "GROUND WATER",
+        "tr": "YERALTI SUYU"
+    },
+    "32": {
+        "en": "BORING LOG",
+        "tr": "SONDAJ LOGU"
+    },
+    "33": {
+        "en": "BLOW COUNT",
+        "tr": "DARBE SAYISI"
+    },
+    "34": {
+        "en": "GRAPH OF N30",
+        "tr": "N30 GRAFİĞİ"
+    },
+    "35": {
+        "en": "SOIL-ROCK EVALUATION",
+        "tr": "ZEMİN-KAYA DEĞERLENDİRMESİ"
+    },
+    "36": {
+        "en": "FINE GRAINED",
+        "tr": "İNCE DANELİ"
+    },
+    "37": {
+        "en": "COARSE GRAINED",
+        "tr": "İRİ DANELİ"
+    },
+    "38": {
+        "en": "CRACKS",
+        "tr": "ÇATLAKLAR"
+    },
+    "39": {
+        "en": "ABBREVIATIONS",
+        "tr": "KISALTMALAR"
+    },
+    "40": {
+        "en": "REMARKS",
+        "tr": "NOTLAR"
+    },
+    "41": {
+        "en": "Very soft",
+        "tr": "Çok yumuşak"
+    },
+    "42": {
+        "en": "Soft",
+        "tr": "Yumuşak"
+    },
+    "43": {
+        "en": "Medium stiff",
+        "tr": "Orta katı"
+    },
+    "44": {
+        "en": "Stiff",
+        "tr": "Katı"
+    },
+    "45": {
+        "en": "Very stiff",
+        "tr": "Çok katı"
+    },
+    "46": {
+        "en": "Hard",
+        "tr": "Sert"
+    },
+    "47": {
+        "en": "Very loose",
+        "tr": "Çok gevşek"
+    },
+    "48": {
+        "en": "Loose",
+        "tr": "Gevşek"
+    },
+    "49": {
+        "en": "Medium dense",
+        "tr": "Orta sıkı"
+    },
+    "50": {
+        "en": "Dense",
+        "tr": "Sıkı"
+    },
+    "51": {
+        "en": "Very dense",
+        "tr": "Çok sıkı"
+    },
+    "52": {
+        "en": "Very poor",
+        "tr": "Çok zayıf"
+    },
+    "53": {
+        "en": "Poor",
+        "tr": "Zayıf"
+    },
+    "54": {
+        "en": "Fair",
+        "tr": "Orta"
+    },
+    "55": {
+        "en": "Good",
+        "tr": "İyi"
+    },
+    "56": {
+        "en": "Excellent",
+        "tr": "Çok iyi"
+    },
+    "57": {
+        "en": "Massive",
+        "tr": "Masif"
+    },
+    "58": {
+        "en": "Slightly cracked fractured",
+        "tr": "Az çatlaklı kırıklı"
+    },
+    "59": {
+        "en": "Fractured",
+        "tr": "Kırıklı"
+    },
+    "60": {
+        "en": "Highly cracked fractured",
+        "tr": "Çok çatlaklı kırıklı"
+    },
+    "61": {
+        "en": "Crushed",
+        "tr": "Parçalanmış"
+    },
+    "62": {
+        "en": "Fresh",
+        "tr": "Taze"
+    },
+    "63": {
+        "en": "Slightly weathered",
+        "tr": "Az ayrışmış"
+    },
+    "64": {
+        "en": "Moderately weathered",
+        "tr": "Orta derecede ayrışmış"
+    },
+    "65": {
+        "en": "Highly weathered",
+        "tr": "Çok ayrışmış"
+    },
+    "66": {
+        "en": "Completely weathered",
+        "tr": "Tamamen ayrışmış"
+    },
+    "67": {
+        "en": "Resiual soil",
+        "tr": "Rezidüel toprak"
+    },
+    "68": {
+        "en": "Extremely weak rock",
+        "tr": "Aşırı derecede zayıf kayaç"
+    },
+    "69": {
+        "en": "Very weak rock",
+        "tr": "Çok zayıf kayaç"
+    },
+    "70": {
+        "en": "Weak rock",
+        "tr": "Zayıf kayaç"
+    },
+    "71": {
+        "en": "Medium strong rock",
+        "tr": "Orta derecede sağlam kayaç"
+    },
+    "72": {
+        "en": "Strong rock",
+        "tr": "Sağlam kayaç"
+    },
+    "73": {
+        "en": "Very strong rock",
+        "tr": "Çok sağlam kayaç"
+    },
+    "74": {
+        "en": "Extremely strong rock",
+        "tr": "Aşırı derecede sağlam kayaç"
+    },
+    "75": {
+        "en": "Shelby Tube",
+        "tr": "Şelbi Tüpü"
+    },
+    "76": {
+        "en": "Core Sample",
+        "tr": "Karot Örneği"
+    },
+    "77": {
+        "en": "Standard Penetration Test",
+        "tr": "Standart Penetrasyon Testi"
+    },
+    "78": {
+        "en": "Pressuremeter Test",
+        "tr": "Presiyometre Testi"
+    },
+    "79": {
+        "en": "Packer Test",
+        "tr": "Paker Testi"
+    },
+    "80": {
+        "en": "Borehole End",
+        "tr": "Kuyu Sonu"
+    },
+    "81": {
+        "en": "Warning",
+        "tr": "Uyarı"
+    },
+    "82": {
+        "en": "Define the borehole depth first.",
+        "tr": "Önce kuyu derinliğini tanımlayın."
+    },
+    "83": {
+        "en": "Info",
+        "tr": "Bilgi"
+    },
+    "84": {
+        "en": "Canvas has been exported.",
+        "tr": "Tuval dışa aktarıldı."
+    },
+    "85": {
+        "en": "There is no canvas to be exported.",
+        "tr": "Dışa aktarılacak bir tuval yok."
+    },
+    "86": {
+        "en": "Depth Information",
+        "tr": "Derinlik Bilgisi"
+    },
+    "87": {
+        "en": "Borehole Depth (m)",
+        "tr": "Kuyu Derinliği (m)"
+    },
+    "88": {
+        "en": "Project And Company Information",
+        "tr": "Proje Ve Şirket Bilgileri"
+    },
+    "89": {
+        "en": "Select Color",
+        "tr": "Renk Seçin"
+    },
+    "90": {
+        "en": "Color Code",
+        "tr": "Renk Kodu"
+    },
+    "91": {
+        "en": "Upper Limit (m)",
+        "tr": "Üst Sınır (m)"
+    },
+    "92": {
+        "en": "Lower Limit (m)",
+        "tr": "Alt Sınır (m)"
+    },
+    "93": {
+        "en": "Ground Type",
+        "tr": "Zemin Tipi"
+    },
+    "94": {
+        "en": "Profile",
+        "tr": "Profil"
+    },
+    "95": {
+        "en": "Color",
+        "tr": "Renk"
+    },
+    "96": {
+        "en": "Lithology Information",
+        "tr": "Litoloji Bilgileri"
+    },
+    "97": {
+        "en": "LANGUAGE",
+        "tr": "DİL"
+    },
+    "98": {
+        "en": "DEPTH (m)",
+        "tr": "DERİNLİK (m)"
+    },
+    "99": {
+        "en": "PROJECT AND COMPANY INFORMATION",
+        "tr": "PROJE VE ŞİRKET BİLGİLERİ"
+    },
+    "100": {
+        "en": "LITHOLOGY INFORMATION",
+        "tr": "LİTOLOJİ BİLGİLERİ"
+    },
+    "101": {
+        "en": "An invalid value has been written.",
+        "tr": "Geçersiz bir değer yazıldı."
+    },
+    "102": {
+        "en": "Lower limit can not be \nequal to or lower than \nUpper limit.",
+        "tr": "Alt sınır üst sınıra eşit veya \n üst sınırdan daha küçük olamaz."
+    },
+    "103": {
+        "en": "Lower limit can not be \ngreater than borehole depth.",
+        "tr": "Alt sınır kuyu derinliğinden \ndaha büyük olamaz."
+    },
+    "104": {
+        "en": "File",
+        "tr": "Dosya"
+    },
+    "105": {
+        "en": "Add",
+        "tr": "Ekle"
+    },
+    "106": {
+        "en": "Canvas",
+        "tr": "Tuval"
+    },
+    "107": {
+        "en": "Settings",
+        "tr": "Ayarlar"
+    },
+    "108": {
+        "en": "Open",
+        "tr": "Aç"
+    },
+    "109": {
+        "en": "Save",
+        "tr": "Kaydet"
+    },
+    "110": {
+        "en": "Display",
+        "tr": "Görüntüle"
+    },
+    "111": {
+        "en": "Export",
+        "tr": "Dışa aktar"
+    },
+    "112": {
+        "en": "Language",
+        "tr": "Dil"
+    },
+    "113": {
+        "en": "English",
+        "tr": "İngilizce"
+    },
+    "114": {
+        "en": "Turkish",
+        "tr": "Türkçe"
+    },
+    "115": {
+        "en": "Sample Information",
+        "tr": "Örnek Bilgileri"
+    },
+    "116": {
+        "en": "SPT Information",
+        "tr": "SPT Bilgileri"
+    },
+    "117": {
+        "en": "Refusal-15",
+        "tr": "Refü-15"
+    },
+    "118": {
+        "en": "Refusal-30",
+        "tr": "Refü-30"
+    },
+    "119": {
+        "en": "Refusal-45",
+        "tr": "Refü-45"
+    },
+    "120": {
+        "en": "UD Information",
+        "tr": "UD Bilgileri"
+    },
+    "121": {
+        "en": "Carot Information",
+        "tr": "Karot Bilgileri"
+    },
+    "122": {
+        "en": "SAMPLE INFORMATION",
+        "tr": "ÖRNEK BİLGİLERİ"
+    },
+    "123": {
+        "en": "Fine Grained",
+        "tr": "İnce Daneli"
+    },
+    "124": {
+        "en": "Coarse Grained",
+        "tr": "İri Daneli"
+    },
+    "125": {
+        "en": "Rock",
+        "tr": "Kayaç"
+    },
+    "126": {
+        "Fine Grained": {
+            "0": {
+                "en": "Clay",
+                "tr": "Kil"
+            },
+            "1": {
+                "en": "Silty Clay",
+                "tr": "Siltli Kil"
+            },
+            "2": {
+                "en": "Sandy Clay",
+                "tr": "Kumlu Kil"
+            },
+            "3": {
+                "en": "Gravely Clay",
+                "tr": "Çakıllı Kil"
+            },
+            "4": {
+                "en": "Sandy Silty Clay",
+                "tr": "Kumlu Siltli Kil"
+            },
+            "5": {
+                "en": "Gravely Sandy Clay",
+                "tr": "Çakıllı Kumlu Kil"
+            },
+            "6": {
+                "en": "Gravely Sandy Silty Clay",
+                "tr": "Çakıllı Kumlu Siltli Kil"
+            },
+            "7": {
+                "en": "Silt",
+                "tr": "Silt"
+            },
+            "8": {
+                "en": "Clayey Silt",
+                "tr": "Killi Silt"
+            },
+            "9": {
+                "en": "Sandy Silt",
+                "tr": "Kumlu Silt"
+            },
+            "10": {
+                "en": "Gravely Silt",
+                "tr": "Çakıllı Silt"
+            },
+            "11": {
+                "en": "Sandy Clayey Silt",
+                "tr": "Kumlu Killi Silt"
+            },
+            "12": {
+                "en": "Gravely Sandy Silt",
+                "tr": "Çakıllı Kumlu Silt"
+            },
+            "13": {
+                "en": "Gravely Sandy Clayey Silt",
+                "tr": "Çakıllı Kumlu Killi Silt"
+            }
+        },
+        "Coarse Grained": {
+            "0": {
+                "en": "Sand",
+                "tr": "Kum"
+            },
+            "1": {
+                "en": "Clayey Sand",
+                "tr": "Killi Kum"
+            },
+            "2": {
+                "en": "Silty Sand",
+                "tr": "Siltli Kum"
+            },
+            "3": {
+                "en": "Gravely Sand",
+                "tr": "Çakıllı Kum"
+            },
+            "04": {
+                "en": "Clayey Silty Sand",
+                "tr": "Killi Siltli Kum"
+            },
+            "05": {
+                "en": "Gravely Clayey Silty Sand",
+                "tr": "Çakıllı Killi Siltli Kum"
+            },
+            "06": {
+                "en": "Clayey Silty Gravely Sand",
+                "tr": "Killi Siltli Çakıllı Kum"
+            },
+            "07": {
+                "en": "Gravel",
+                "tr": "Çakıl"
+            },
+            "08": {
+                "en": "Clayey Gravel",
+                "tr": "Killi Çakıl"
+            },
+            "09": {
+                "en": "Silty Gravel",
+                "tr": "Siltli Çakıl"
+            },
+            "10": {
+                "en": "Sandy Gravel",
+                "tr": "Kumlu Çakıl"
+            },
+            "11": {
+                "en": "Clayey Silty Gravel",
+                "tr": "Killi Siltli Çakıl"
+            },
+            "12": {
+                "en": "Sandy Clayey Silty Gravel",
+                "tr": "Kumlu Killi Siltli Çakıl"
+            },
+            "13": {
+                "en": "Clayey Silty Sandy Gravel",
+                "tr": "Killi Siltli Kumlu Çakıl"
+            }
+        },
+        "Rock": {
+            "0": {
+                "en": "Claystone",
+                "tr": "Kiltaşı"
+            },
+            "1": {
+                "en": "Siltstone",
+                "tr": "Silttaşı"
+            },
+            "2": {
+                "en": "Sandstone",
+                "tr": "Kumtaşı"
+            },
+            "3": {
+                "en": "Conglomerate",
+                "tr": "Konglomera"
+            },
+            "4": {
+                "en": "Breccia",
+                "tr": "Breş"
+            },
+            "5": {
+                "en": "Limestone",
+                "tr": "Kireçtaşı"
+            },
+            "6": {
+                "en": "Dolomite",
+                "tr": "Dolomit"
+            },
+            "7": {
+                "en": "Gypsium",
+                "tr": "Jips"
+            },
+            "8": {
+                "en": "Anhydrite",
+                "tr": "Anhidrit"
+            },
+            "9": {
+                "en": "Salt",
+                "tr": "Tuz"
+            },
+            "10": {
+                "en": "Coal",
+                "tr": "Kömür"
+            },
+            "11": {
+                "en": "Ophiolite",
+                "tr": "Ofiyolit"
+            },
+            "12": {
+                "en": "Tuff",
+                "tr": "Tüf"
+            },
+            "13": {
+                "en": "Metamorphic Rock",
+                "tr": "Metamorfik Kayaç"
+            },
+            "14": {
+                "en": "Plutonic Rock",
+                "tr": "Plütonik Kayaç"
+            },
+            "15": {
+                "en": "Volcanic Rock",
+                "tr": "Volkanik Kayaç"
+            }
+        }
+    },
+    "127": {
+        "en": "JSON Files",
+        "tr": "JSON Dosyaları"
+    },
+    "128": {
+        "en": "Project has been saved.",
+        "tr": "Proje kaydedildi."
+    },
+    "129": {
+        "en": "has been loaded.",
+        "tr": "yüklendi."
+    },
+    "130": {
+        "en": "Description",
+        "tr": "Açıklama"
+    },
+    "131": {
+        "en": "COMPANY NAME",
+        "tr": "ŞİRKET İSMİ"
+    },
+    "132": {
+        "en": "Help",
+        "tr": "Yardım"
+    },
+    "133": {
+        "en": "About",
+        "tr": "Hakkında"
+    },
+    "134": {
+        "en": "Version",
+        "tr": "Sürüm"
+    },
+    "135": {
+        "en": "Date Built",
+        "tr": "İnşa Tarihi"
+    },
+    "136": {
+        "en": "Developer",
+        "tr": "Geliştirici"
+    },
+    "137": {
+        "en": "Contact",
+        "tr": "İletişim"
+    },
+    "138": {
+        "en": "Please contact with the developer for the \ncomplaints related to the program or \nfor the requests.",
+        "tr": "Programla ilgili şikayetler veya istekler için \nlütfen geliştiriciyle iletişime geçin."
+    },
+    "139": {
+        "en": "The difference between lower \nand upper limits should be \nless than or equal to 0.45.",
+        "tr": "Alt ve üst sınırlar arasındaki fark \n0.45 veya daha az olmalıdır."
+    },
+    "140": {
+        "en": "Casing Pipe Information",
+        "tr": "Muhafaza Borusu Bilgisi"
+    },
+    "141": {
+        "en": "CASING PIPE INFORMATION",
+        "tr": "MUHAFAZA BORUSU BİLGİSİ"
+    },
+    "142": {
+        "en": "PRESSUREMETER INFORMATION",
+        "tr": "PRESİYOMETRE BİLGİLERİ"
+    },
+    "143": {
+        "en": "Pressuremeter Information",
+        "tr": "Presiyometre Bilgileri"
+    },
+    "144": {
+        "en": "LUGEON INFORMATION",
+        "tr": "LUGEON BİLGİLERİ"
+    },
+    "145": {
+        "en": "Lugeon Information",
+        "tr": "Lugeon Bilgileri"
+    },
+    "146": {
+        "en": "PDF Files",
+        "tr": "PDF Dosyaları"
+    },
+    "147": {
+        "en": "Close",
+        "tr": "Kapat"
+    },
+    "148": {
+        "en": "Check for Updates",
+        "tr": "Güncelleştirmeleri denetle"
+    },
+    "149": {
+        "en": "Couldn't connect.",
+        "tr": "Bağlanamadı."
+    },
+    "150": {
+        "en": "Program is updated.",
+        "tr": "Program güncellendi."
+    },
+    "151": {
+        "en": "Program is up-to-date.",
+        "tr": "Program güncel."
+    },
+    "152": {
+        "en": "Date Updated",
+        "tr": "Güncellenme Tarihi"
+    }
+}

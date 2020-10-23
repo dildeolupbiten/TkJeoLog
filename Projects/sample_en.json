@@ -1,0 +1,273 @@
+{
+    "LANGUAGE": "en",
+    "DEPTH (m)": 25.0,
+    "CASING PIPE INFORMATION": {},
+    "PROJECT AND COMPANY INFORMATION": {
+        "COMPANY NAME": "SAMPLE COMPANY",
+        "PROJECT NAME": "SAMPLE PROJECT",
+        "LOCATION": "ÇİFTLİKKÖY - MERSİN",
+        "GROUND ELEVATION": "5 m.",
+        "COORDINATE Y (E-W)": "34.5429041 D",
+        "COORDINATE X (N-S)": "36.7685826 K",
+        "STATION": "",
+        "OFFSET": "",
+        "BOREHOLE NO": "SK-1",
+        "DRILL RIG": "TSM-750",
+        "DRILL METHOD": "ROTARY - WATERY",
+        "DRILLER": "TANBERK KUTLU",
+        "ENGINEER": "TANBERK KUTLU",
+        "DATE STARTED": "12.06.2020",
+        "DATE FINISHED": "14.06.2020",
+        "GROUND WATER": "1.10 m.",
+        "REMARKS": ""
+    },
+    "LITHOLOGY INFORMATION": {
+        "0": {
+            "Upper Limit (m)": 0.0,
+            "Lower Limit (m)": 0.75,
+            "Ground Type": "Fine Grained",
+            "Profile": "Gravely Sandy Silty Clay",
+            "Color": "#905d31",
+            "Description": ""
+        },
+        "1": {
+            "Upper Limit (m)": 0.75,
+            "Lower Limit (m)": 3.5,
+            "Ground Type": "Fine Grained",
+            "Profile": "Silty Clay",
+            "Color": "#a78b46",
+            "Description": "Brown, dark brown, very solid, medium plasticity, moist to very moist Silty Clay"
+        },
+        "2": {
+            "Upper Limit (m)": 3.5,
+            "Lower Limit (m)": 8.0,
+            "Ground Type": "Fine Grained",
+            "Profile": "Gravely Clay",
+            "Color": "#6f562e",
+            "Description": "Brown, locally green colored, hard, medium - high plasticity, moist - very moist, Pebbly Silty Clay"
+        },
+        "3": {
+            "Upper Limit (m)": 8.0,
+            "Lower Limit (m)": 19.75,
+            "Ground Type": "Fine Grained",
+            "Profile": "Gravely Sandy Silty Clay",
+            "Color": "#78724d",
+            "Description": "Brown, partially green colored, solid - hard, medium - high plasticity, moist - very moist Pebbly Sandy Silty Clay"
+        },
+        "4": {
+            "Upper Limit (m)": 19.75,
+            "Lower Limit (m)": 22.5,
+            "Ground Type": "Fine Grained",
+            "Profile": "Gravely Sandy Clay",
+            "Color": "#94906e",
+            "Description": "Brown, locally green colored, medium-high plasticity, fine coarse-grained, Pebbly Sandy Clay"
+        },
+        "5": {
+            "Upper Limit (m)": 22.5,
+            "Lower Limit (m)": 25.0,
+            "Ground Type": "Fine Grained",
+            "Profile": "Silty Clay",
+            "Color": "#8d6239",
+            "Description": "Brown colored, greenish gray in places, hard, medium - high plasticity, moist - very moist Silty Clay"
+        }
+    },
+    "SAMPLE INFORMATION": {
+        "RC": {
+            "0": {
+                "Upper Limit (m)": 0.0,
+                "Lower Limit (m)": 1.5,
+                "CAROT RECOVERY": 100
+            },
+            "1": {
+                "Upper Limit (m)": 1.95,
+                "Lower Limit (m)": 3.0,
+                "CAROT RECOVERY": 99
+            },
+            "2": {
+                "Upper Limit (m)": 3.45,
+                "Lower Limit (m)": 4.5,
+                "CAROT RECOVERY": 100
+            },
+            "3": {
+                "Upper Limit (m)": 4.95,
+                "Lower Limit (m)": 6.0,
+                "CAROT RECOVERY": 100
+            },
+            "4": {
+                "Upper Limit (m)": 6.45,
+                "Lower Limit (m)": 7.5,
+                "CAROT RECOVERY": 99
+            },
+            "5": {
+                "Upper Limit (m)": 7.95,
+                "Lower Limit (m)": 9.0,
+                "CAROT RECOVERY": 100
+            },
+            "6": {
+                "Upper Limit (m)": 9.45,
+                "Lower Limit (m)": 10.5,
+                "CAROT RECOVERY": 100
+            },
+            "7": {
+                "Upper Limit (m)": 10.95,
+                "Lower Limit (m)": 12.0,
+                "CAROT RECOVERY": 100
+            },
+            "8": {
+                "Upper Limit (m)": 12.45,
+                "Lower Limit (m)": 13.5,
+                "CAROT RECOVERY": 100
+            },
+            "9": {
+                "Upper Limit (m)": 13.95,
+                "Lower Limit (m)": 15.0,
+                "CAROT RECOVERY": 100
+            },
+            "10": {
+                "Upper Limit (m)": 15.45,
+                "Lower Limit (m)": 16.5,
+                "CAROT RECOVERY": 100
+            },
+            "11": {
+                "Upper Limit (m)": 16.95,
+                "Lower Limit (m)": 18.0,
+                "CAROT RECOVERY": 100
+            },
+            "12": {
+                "Upper Limit (m)": 18.45,
+                "Lower Limit (m)": 19.5,
+                "CAROT RECOVERY": 99
+            },
+            "13": {
+                "Upper Limit (m)": 19.95,
+                "Lower Limit (m)": 21.0,
+                "CAROT RECOVERY": 98
+            },
+            "14": {
+                "Upper Limit (m)": 21.45,
+                "Lower Limit (m)": 22.5,
+                "CAROT RECOVERY": 99
+            },
+            "15": {
+                "Upper Limit (m)": 22.95,
+                "Lower Limit (m)": 24.0,
+                "CAROT RECOVERY": 100
+            },
+            "16": {
+                "Upper Limit (m)": 24.0,
+                "Lower Limit (m)": 25.0,
+                "CAROT RECOVERY": 100
+            }
+        },
+        "SPT": {
+            "0": {
+                "Upper Limit (m)": 1.5,
+                "Lower Limit (m)": 1.95,
+                "N15": 7,
+                "N30": 9,
+                "N45": 13
+            },
+            "1": {
+                "Upper Limit (m)": 3.0,
+                "Lower Limit (m)": 3.45,
+                "N15": 8,
+                "N30": 10,
+                "N45": 14
+            },
+            "2": {
+                "Upper Limit (m)": 4.5,
+                "Lower Limit (m)": 4.95,
+                "N15": 7,
+                "N30": 13,
+                "N45": 19
+            },
+            "3": {
+                "Upper Limit (m)": 6.0,
+                "Lower Limit (m)": 6.45,
+                "N15": 11,
+                "N30": 16,
+                "N45": 20
+            },
+            "4": {
+                "Upper Limit (m)": 7.5,
+                "Lower Limit (m)": 7.95,
+                "N15": 15,
+                "N30": 15,
+                "N45": 17
+            },
+            "5": {
+                "Upper Limit (m)": 9.0,
+                "Lower Limit (m)": 9.45,
+                "N15": 14,
+                "N30": 17,
+                "N45": 20
+            },
+            "6": {
+                "Upper Limit (m)": 10.5,
+                "Lower Limit (m)": 10.95,
+                "N15": 20,
+                "N30": 23,
+                "N45": 25
+            },
+            "7": {
+                "Upper Limit (m)": 12.0,
+                "Lower Limit (m)": 12.45,
+                "N15": 23,
+                "N30": 24,
+                "N45": 26
+            },
+            "8": {
+                "Upper Limit (m)": 13.5,
+                "Lower Limit (m)": 13.95,
+                "N15": 26,
+                "N30": 25,
+                "N45": 24
+            },
+            "9": {
+                "Upper Limit (m)": 15.0,
+                "Lower Limit (m)": 15.45,
+                "N15": 26,
+                "N30": 26,
+                "N45": 27
+            },
+            "10": {
+                "Upper Limit (m)": 16.5,
+                "Lower Limit (m)": 16.95,
+                "N15": 27,
+                "N30": 28,
+                "N45": 27
+            },
+            "11": {
+                "Upper Limit (m)": 18.0,
+                "Lower Limit (m)": 18.45,
+                "N15": 23,
+                "N30": 22,
+                "N45": 24
+            },
+            "12": {
+                "Upper Limit (m)": 19.5,
+                "Lower Limit (m)": 19.95,
+                "N15": 24,
+                "N30": 26,
+                "N45": 23
+            },
+            "13": {
+                "Upper Limit (m)": 21.0,
+                "Lower Limit (m)": 21.45,
+                "N15": 25,
+                "N30": 26,
+                "N45": 24
+            },
+            "14": {
+                "Upper Limit (m)": 22.5,
+                "Lower Limit (m)": 22.95,
+                "N15": 26,
+                "N30": 28,
+                "N45": 29
+            }
+        },
+        "UD": {},
+        "Pr": {},
+        "PD": {}
+    }
+}
