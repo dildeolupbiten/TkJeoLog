@@ -14,7 +14,6 @@ installed_packages = [
 
 packages = ["numpy", "Pillow", "PyPDF2"]
 
-
 for package in packages:
     if package not in installed_packages:
         os.system(f"{sys.executable} -m pip install {package}")
