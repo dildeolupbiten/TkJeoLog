@@ -106,7 +106,6 @@ class Canvas(tk.Canvas):
     ):
         x = (self.x_end - self.x_start) / 25
         y = self.y_start + 25
-        # points = []
         # for x line of the log information and units
         for i in range(2):
             self.line_object(
